@@ -1,3 +1,16 @@
 body{
-  background:#77cdaa;
+  background:#5fb680 url(assets/bg.png);
+  background-size:76px 76px;
+  color:#fff;
+  text-align:center;
+  padding:40px 0 0;
+}
+
+.logo{
+  margin:0 0 30px;
+}
+
+.screenshot{
+  position:relative;
+  bottom:-20px;
 }

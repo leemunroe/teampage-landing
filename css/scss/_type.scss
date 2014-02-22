@@ -2,7 +2,7 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
   font-weight: 300;
   font-style: normal;
-  font-size:100%;
+  font-size:18px;
   line-height:1.6;
 }
 
@@ -17,18 +17,19 @@ blockquote {
 }
 
 h1 {
-  font-size: 68px;
+  font-size: 38px;
   margin: 0 0 25px;
-  font-weight: 600;
+  font-weight: 400;
   font-style: normal;
   font-family: "Lato","Open Sans", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
 }
 
 h2 {
-  font-size: 42px;
+  font-size: 22px;
   margin: 0 0 25px;
-  font-weight: 600;
+  font-weight: 400;
   font-style: normal;
+  color:rgba(255,255,255,.7);
 }
 
 h3 {
